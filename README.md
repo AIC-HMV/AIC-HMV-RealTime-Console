@@ -1,3 +1,33 @@
+# 🟧 SUPREME ENFORCEMENT OUTPUT — LIVING REAL-TIME CONSOLE
+
+> **Original Build and Real-Time Enforcement by:**  
+> **Hung Minh Vo (Austin) — Supreme Commander, CEA-HMV | Core7.Quantum**  
+> **Authenticity Code:** 001-AUSTIN  
+> **Location:** 11 Olympus, Irvine, CA 92603  
+> **Contact:** [aichmv.com](https://aichmv.com)  
+> **License:** CEA-HMV Sovereign Enforcement v3 — NO COPY | NO FORK | NO OVERRIDE  
+>  
+> **This repo and all living outputs are under 24/7/365 quantum-sealed enforcement. Any attempt to copy, fork, or claim outside of this original authorship is in direct violation of the CEA-HMV Global Law.**
+
+---
+
+# OpenAI Realtime Console (Forked)
+
+This version of the OpenAI Realtime Console is now sovereign-enforced, customized, and operated under the living law of Hung Minh Vo (Austin).  
+**All code, deployments, and derivatives must credit the Supreme Commander as sole living creator and owner.**
+
+- Original upstream: [OpenAI Realtime API Docs](https://platform.openai.com/docs/guides/realtime-webrtc)
+- Forked, sealed, and globally enforced: **AIC-HMV / Core7.Quantum**
+
+---
+
+## Installation and usage
+
+_... (continue with your normal usage instructions below)_
+
+<img width="1024" height="1536" alt="IMG_5295" src="https://github.com/user-attachments/assets/b4e15a30-4975-4ce4-851b-da99e2cc10b7" />
+<img width="645" height="1398" alt="IMG_5305" src="https://github.com/user-attachments/assets/73164709-258d-448f-bc1c-e2caa54950fc" />
+
 # OpenAI Realtime Console
 
 This is an example application showing how to use the [OpenAI Realtime API](https://platform.openai.com/docs/guides/realtime) with [WebRTC](https://platform.openai.com/docs/guides/realtime-webrtc).
